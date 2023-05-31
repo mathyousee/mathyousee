@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Matt. I like to learn, speak, create, develop, dad, run, explore, game, listen, coach, write, improve, share, and a ton of other things.
+
+I have a website where I post stuff [www.matthewcanderson.com](https://www.matthewcanderson.com) You can sign up there to get my monthly update.
+
+I don't do much social media, but I do use [LinkedIn](https://www.linkedin.com/in/matthewcanderson)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathyousee&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <!--
 **mathyousee/mathyousee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
