@@ -2,7 +2,7 @@
 
 I'm Matt. I like to learn, speak, create, develop, dad, run, explore, game, listen, coach, write, improve, share, and a ton of other things.
 
-I have a website where I post stuff [www.matthewcanderson.com](https://www.matthewcanderson.com) You can [sign up](https://www.matthewcanderson.com/?from=@#/portal/signup) there to get my monthly update. I won't send you junk.
+I have a website where I post stuff [www.matthewcanderson.com](https://www.matthewcanderson.com)
 
 I don't do much social media, but I do use [LinkedIn](https://www.linkedin.com/in/matthewcanderson)
 
